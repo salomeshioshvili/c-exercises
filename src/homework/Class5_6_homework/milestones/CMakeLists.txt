@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.21)
+
+add_executable(milestone1 milestone1_pointer_basics.c)
+add_executable(milestone2 milestone2_memory_layout1.c)
+add_executable(milestone3 milestone3_memory_layout2.c)
+add_executable(milestone4 milestone4_memory_layout3.c)
+add_executable(milestone5 milestone5_casting1.c)
+add_executable(milestone6 milestone6_casting2.c)
+add_executable(milestone7 milestone7_string_concat.c)
+add_executable(milestone8 milestone8_malloc_fun.c)
+add_executable(privilege_escalation privilege_escalation.c)
