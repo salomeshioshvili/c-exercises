@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.21)
 project(big_boy_malloc C)
 
-set(CMAKE_C_STANDARD 99)
+set(CMAKE_C_STANDARD 23)
 
 add_library(malloc_functions src/library.c)
 target_include_directories(malloc_functions PUBLIC include)
