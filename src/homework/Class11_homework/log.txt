@@ -1,0 +1,6 @@
+[INFO] Task started
+[DEBUG] Initializing resources
+[INFO] Processing data
+[WARNING] Low memory warning
+[DEBUG] Validating results
+[INFO] Task completed successfully

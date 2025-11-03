@@ -1,0 +1,24 @@
+# Default ignore rules for C/C++ projects
+build/
+build*/
+
+*.o
+*.a
+*.so
+*.exe
+main
+welcome
+hello
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+.DS_Store
